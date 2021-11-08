@@ -12,9 +12,8 @@ go mod download
 ### Basic git command's
 `````
 git add .
-git commit -m "Somo comment"
-git push main
-
+git commit -m "Some comment"
+git push
 `````
 
 ### Branch?
